@@ -4,4 +4,3 @@
 - Evaluation metric was MAE
 - Refer to the pdf for the report
 - Refer to the notebook for the code
-- Refer to the folder "data" for the dataset
