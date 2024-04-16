@@ -3,4 +3,4 @@
 - 5 different models + pipeline were tested
 - Evaluation metric was MAE
 - Refer to the pdf for the report
-- Refer to the notebook for the code
+- Refer to the .py for the code
